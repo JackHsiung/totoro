@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T11:01:47.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="RVi0nMLmBAGDBipOCtCJ" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T11:23:11.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Wa_OElhhY_CTzT_iRamN" version="14.2.7" type="github">
   <diagram id="0g-cLpa_L3bT_o7kX3fC" name="Page-1">
     <mxGraphModel dx="1038" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,6 +99,66 @@
         </mxCell>
         <mxCell id="pBYM3_GW4upPW4wwLv3C-29" value="离线训练/模型" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="640" y="409" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBYM3_GW4upPW4wwLv3C-30" value="PredictServing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="180" y="717" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBYM3_GW4upPW4wwLv3C-34" value="PredictServing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="300" y="717" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBYM3_GW4upPW4wwLv3C-36" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.4;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pBYM3_GW4upPW4wwLv3C-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="845" as="sourcePoint" />
+            <mxPoint x="230" y="747" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBYM3_GW4upPW4wwLv3C-41" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.531;exitY=0.123;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pBYM3_GW4upPW4wwLv3C-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="845" as="sourcePoint" />
+            <mxPoint x="350" y="747" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBYM3_GW4upPW4wwLv3C-42" value="Hdfs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="120" y="982" width="440" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pBYM3_GW4upPW4wwLv3C-43" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="910" as="sourcePoint" />
+            <mxPoint x="650" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBYM3_GW4upPW4wwLv3C-44" value="在线Predict" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="767" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBYM3_GW4upPW4wwLv3C-45" value="PredictAPI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="420" y="717" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBYM3_GW4upPW4wwLv3C-46" value="Tool" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="200" y="932" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBYM3_GW4upPW4wwLv3C-47" value="Tool" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="360" y="932" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBYM3_GW4upPW4wwLv3C-48" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="687" as="sourcePoint" />
+            <mxPoint x="650" y="687" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBYM3_GW4upPW4wwLv3C-49" value="业务层" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="620" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBYM3_GW4upPW4wwLv3C-50" value="NN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="236" y="620" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBYM3_GW4upPW4wwLv3C-51" value="Embeding Calc" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="620" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBYM3_GW4upPW4wwLv3C-52" value="离线训练/模型" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="952" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBYM3_GW4upPW4wwLv3C-60" value="PS Cluster" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#56517e;fillColor=#d0cee2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="810" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
