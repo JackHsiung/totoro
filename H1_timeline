@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2021-07-03T03:57:12.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="XdAnnPGOVQ1dnUL9ysPq" version="14.8.4" type="github">
+  <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
+    <mxGraphModel dx="1730" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4ec97bd9e5d20128-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="40" y="400" width="1560" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-5" value="一月" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;gradientDirection=east;resizeHeight=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-6" value="三月" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="573" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-7" value="二月" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
+          <mxGeometry x="346.5" y="430" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-8" value="四月" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
+          <mxGeometry x="800" y="430" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="190" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="417" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="643" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="870" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1 style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;看点粗排TTF&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left ; font-size: 12px&quot;&gt;&lt;ul&gt;&lt;li&gt;看点粗排离/在线服务TTF开发&lt;/li&gt;&lt;li&gt;基于TTF完成分数对齐&lt;/li&gt;&lt;li&gt;2周完成在/离线粗排服务开发并灰度，3周完成看点粗排上线&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;fontSize=13;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="75" y="430" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-16" value="&lt;h1 style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;平台化建设&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left ; font-size: 12px&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Divination推理API组件设计&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;配置化支持Hermes/Tensorflow&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;打分平台流程梳理和设计&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 20px ; font-weight: normal&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px ; font-weight: normal&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px ; font-weight: normal&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;fontSize=13;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="311" y="260" width="231" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;通用打分平台&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Divination推理开发&amp;amp;自测&lt;/span&gt;&lt;/li&gt;&lt;li&gt;基础工具ps_echo、model_example&lt;/li&gt;&lt;li&gt;打分平台集成Divination和dag&lt;/li&gt;&lt;li&gt;Divination在TDM模型落地&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;fontSize=13;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="535.5" y="430" width="235" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;性能优化&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Divination在QB DIEM模型落地&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;针对DIEN模型,Divination性能优化，耗时从60ms降至20ms&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;打分平台整体耗时从110ms降至70ms&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;fontSize=13;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="220" width="263.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="N6ExLA4cVjtOTRk_9aD_-2" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="396" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N6ExLA4cVjtOTRk_9aD_-4" value="&lt;h1&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;工程效能&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;div style=&quot;text-align: left ; font-size: 12px&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;短小视频NN负载优化&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;TTF分支融合，统一dag不同版本差异&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;GPU推理调研，实现原生TF GPU推理&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;基于TF XLA优化&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;基于TF-TRT优化&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;fontSize=13;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1011.25" y="425" width="288.75" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="N6ExLA4cVjtOTRk_9aD_-5" value="五月" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N6ExLA4cVjtOTRk_9aD_-6" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="1433.75" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N6ExLA4cVjtOTRk_9aD_-7" value="六月" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
+          <mxGeometry x="1363.75" y="430" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="N6ExLA4cVjtOTRk_9aD_-8" value="&lt;h1&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;异构计算&amp;amp;QB粗排&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;QB粗排服务打分平台落地&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;AMS异构计算AMS粗排调研&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;hcf异构计算框架sparseinference开发&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;调研TensorRT并打通模型链路&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;fontSize=13;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="220" width="287.5" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
