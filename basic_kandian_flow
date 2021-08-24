@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T12:23:28.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="cppXwgoUTixGg2fl04eK" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T12:25:53.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="PeqoyScNV3yTiHZFhJo1" version="14.9.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-704" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;strokeColor=#36393d;fillColor=#FFE599;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4190" y="2420" width="410" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-681" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;strokeColor=#CCCC00;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3990.000000000001" y="2615.75" width="340" height="150" as="geometry" />
         </mxCell>
@@ -5089,7 +5092,7 @@
         <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-693" value="Train" style="shape=datastore;whiteSpace=wrap;html=1;shadow=0;strokeColor=#1A1A1A;fillColor=#FF8000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="4216" y="2445.1299999999997" width="44" height="43.25" as="geometry" />
         </mxCell>
-        <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-694" value="CheckPoints" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-694" value="CheckPoint" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="4200" y="2500.38" width="76" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-697" value="Run" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;flipH=1;strokeColor=#0053D9;fillColor=#FF8000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -5101,11 +5104,11 @@
         <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-698" value="Freeze" style="shape=datastore;whiteSpace=wrap;html=1;shadow=0;strokeColor=#1A1A1A;fillColor=#FF8000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="4415" y="2446.1299999999997" width="44" height="43.25" as="geometry" />
         </mxCell>
-        <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-699" value="Optimize With &lt;br&gt;TF-TRT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4288.5" y="2500.38" width="105" height="20" as="geometry" />
+        <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-699" value="TF-TRT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4300" y="2498.75" width="81.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-701" value="SaveModel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4400" y="2500.38" width="76" height="20" as="geometry" />
+          <mxGeometry x="4402" y="2500.38" width="76" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-702" value="Inference" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="4507" y="2500.38" width="76" height="20" as="geometry" />
