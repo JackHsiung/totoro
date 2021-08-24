@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T10:06:15.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="_vh0jw_jjjyU5f0C3re7" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T10:18:29.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="SpBpkbIUzbGkPtpMwTAO" version="14.9.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5076,6 +5076,21 @@
         </mxCell>
         <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-684" value="方案二" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3994.19" y="2615.75" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-690" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#1A1A1A;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pOJKs9Q3CR0Dlg3mdoyV-686" target="pOJKs9Q3CR0Dlg3mdoyV-687">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-686" value="Model&lt;br&gt;Checkpoints" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;flipH=1;strokeColor=#0053D9;fillColor=#FF8000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2546.5" y="2294.87" width="74" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-691" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#1A1A1A;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pOJKs9Q3CR0Dlg3mdoyV-687" target="pOJKs9Q3CR0Dlg3mdoyV-689">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-687" value="Optimize With TF-TRT" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;flipH=1;strokeColor=#0053D9;fillColor=#66CC00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2654" y="2295" width="74" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-689" value="Run Inference" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;flipH=1;strokeColor=#0053D9;fillColor=#FF8000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2762" y="2294.87" width="74" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
