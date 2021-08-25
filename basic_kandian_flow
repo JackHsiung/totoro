@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T12:44:51.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="lLIAyTOtDSoMhw7U6jiL" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-25T12:47:28.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="aFXTLKE-74odasy5RPYH" version="14.9.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5465,6 +5465,24 @@
         </mxCell>
         <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-855" value="特征预处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=1;strokeColor=#0053D9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="377.5000000000001" y="2700.25" width="70" height="24.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-857" value="解析请求" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=1;strokeColor=#0053D9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="952.0000000000001" y="2705" width="70" height="24.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-858" value="InitSession" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontColor=#000000;fillColor=#D4E1F5;strokeColor=#0053DB;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="952.0000000000001" y="2761" width="70" height="24.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-859" value="特征预处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=1;strokeColor=#0053D9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="952.0000000000001" y="2820.25" width="70" height="24.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-860" value="特征抽取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=1;strokeColor=#0053D9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="952.0000000000001" y="2876.75" width="70" height="24.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-861" value="SumPooling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=1;strokeColor=#0053D9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="952.0000000000001" y="2935.75" width="70" height="24.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJKs9Q3CR0Dlg3mdoyV-862" value="DNN预测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=1;strokeColor=#0053D9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="952.0000000000001" y="2989.31" width="70" height="24.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
