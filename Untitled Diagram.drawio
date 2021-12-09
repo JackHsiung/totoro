@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T06:24:20.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="oC5GPey6KJRJlHj8TC8L" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T12:59:07.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="yeEQx0R8DGcNTAeMsEex" version="15.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1117" dy="1023" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="NPVPn5-XD2Pnuo-MFKtG-224" value="&lt;b&gt;并行调度框架&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=2;fillColor=none;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="7368" y="1982" width="700" height="266" as="geometry" />
+        </mxCell>
         <mxCell id="ZC6G9wg8kEVkrqUh3elc-462" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;verticalAlign=middle;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="4492" y="1735" width="412" height="207" as="geometry" />
         </mxCell>
@@ -2089,6 +2092,24 @@
         </mxCell>
         <mxCell id="NPVPn5-XD2Pnuo-MFKtG-208" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="7572.5" y="1799.96" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="NPVPn5-XD2Pnuo-MFKtG-215" value="&lt;b&gt;ThreadPool&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeWidth=2;verticalAlign=top;dashed=1;strokeColor=#10739e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="7406" y="2014" width="186" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="NPVPn5-XD2Pnuo-MFKtG-222" value="&lt;b&gt;ThreadPool&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeWidth=2;verticalAlign=top;dashed=1;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="7625" y="2010" width="186" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="NPVPn5-XD2Pnuo-MFKtG-223" value="&lt;b&gt;ThreadPool&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeWidth=2;verticalAlign=top;dashed=1;strokeColor=#56517e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="7844" y="2010" width="186" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="NPVPn5-XD2Pnuo-MFKtG-225" value="&lt;b&gt;Model1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="7434" y="2070" width="130" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="NPVPn5-XD2Pnuo-MFKtG-242" value="&lt;b&gt;Model2&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="7653" y="2067" width="130" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="NPVPn5-XD2Pnuo-MFKtG-243" value="&lt;b&gt;Model3&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="7874" y="2067" width="130" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
