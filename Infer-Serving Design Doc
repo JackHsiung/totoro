@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T08:59:12.568Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="qkhIPqpFAigUDfg_jVj8" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T09:52:11.921Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="E1xiCArfA776aT5AXDy7" version="16.5.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1209" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -295,7 +295,7 @@
         <mxCell id="2T3jKuXrx2j6BXa58Zyg-127" value="配置管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;flipH=0;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1915.5" y="519" width="70" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="2T3jKuXrx2j6BXa58Zyg-128" value="Web管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;flipH=0;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2T3jKuXrx2j6BXa58Zyg-128" value="控制管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;flipH=0;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1998" y="519" width="70" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2T3jKuXrx2j6BXa58Zyg-129" value="Embedding计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;flipH=0;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
