@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T05:24:22.640Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="U8Lrl6Wl-T68rnfziOg_" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T05:26:41.428Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="iIH_bl_ji9OatoAg-fko" version="16.5.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1209" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -159,6 +159,36 @@
         </mxCell>
         <mxCell id="2T3jKuXrx2j6BXa58Zyg-75" value="离线训练" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1380" y="280" width="130" height="114.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2T3jKuXrx2j6BXa58Zyg-77" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="470" width="260" height="217" as="geometry" />
+        </mxCell>
+        <mxCell id="2T3jKuXrx2j6BXa58Zyg-78" value="XMA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="972" y="487" width="70" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="2T3jKuXrx2j6BXa58Zyg-79" value="tRPC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1054" y="487" width="70" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="2T3jKuXrx2j6BXa58Zyg-80" value="tRPC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1137" y="487" width="70" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="2T3jKuXrx2j6BXa58Zyg-81" value="请求拆分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="972" y="567" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="2T3jKuXrx2j6BXa58Zyg-82" value="请求合并" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1092" y="567" width="115" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="2T3jKuXrx2j6BXa58Zyg-83" value="线程模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="972" y="607" width="235" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="2T3jKuXrx2j6BXa58Zyg-84" value="网络库tRPC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="972" y="647" width="235" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="2T3jKuXrx2j6BXa58Zyg-85" value="模型配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="972" y="527" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="2T3jKuXrx2j6BXa58Zyg-86" value="服务配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1092" y="527" width="115" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
