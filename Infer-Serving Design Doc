@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T08:44:42.282Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="l1kwboO47JEtJ7QdfHK8" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T09:54:06.208Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="rMDGZajM65mAEzwe12EP" version="16.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2036" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -783,11 +783,17 @@
         <mxCell id="aaN1WmZKS3DnjyaR9ecJ-87" value="GPU推理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#66CC00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="720" y="1282.63" width="70" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="aaN1WmZKS3DnjyaR9ecJ-88" value="" style="endArrow=none;html=1;strokeWidth=1;rounded=0;dashed=1;dashPattern=1 4;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="1282" as="sourcePoint" />
-            <mxPoint x="690" y="1250" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="aaN1WmZKS3DnjyaR9ecJ-90" value="&lt;b&gt;Infer PS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="1167.26" width="130" height="137.37" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN1WmZKS3DnjyaR9ecJ-91" value="模型加载" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="1228.56" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN1WmZKS3DnjyaR9ecJ-92" value="Lookup" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="1192.06" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN1WmZKS3DnjyaR9ecJ-94" value="版本管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="1266.31" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
