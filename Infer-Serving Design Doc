@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T09:54:06.208Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="rMDGZajM65mAEzwe12EP" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T11:48:39.596Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="yS8wUeD6HuWVTB53jifv" version="16.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2036" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -519,13 +519,13 @@
         <mxCell id="HUbsmOxzvTJgqJ8YTjgR-1" value="离线训练" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1893.5" y="-70" width="130" height="114.5" as="geometry" />
         </mxCell>
-        <mxCell id="aaN1WmZKS3DnjyaR9ecJ-1" value="&lt;b&gt;通用推理 Model Server&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;flipH=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aaN1WmZKS3DnjyaR9ecJ-1" value="&lt;b&gt;通用推理 Model Server&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;flipH=1;fillColor=#D5E8D4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="225" y="1060" width="435" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="aaN1WmZKS3DnjyaR9ecJ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aaN1WmZKS3DnjyaR9ecJ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="247.5" y="1165" width="390" height="141.25" as="geometry" />
         </mxCell>
-        <mxCell id="aaN1WmZKS3DnjyaR9ecJ-3" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aaN1WmZKS3DnjyaR9ecJ-3" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="247.5" y="1090" width="390" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aaN1WmZKS3DnjyaR9ecJ-4" value="特征查询" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;flipH=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -540,7 +540,7 @@
         <mxCell id="aaN1WmZKS3DnjyaR9ecJ-7" value="高频查询" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;flipH=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="538" y="1177" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aaN1WmZKS3DnjyaR9ecJ-9" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aaN1WmZKS3DnjyaR9ecJ-9" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="247.5" y="1324" width="390" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aaN1WmZKS3DnjyaR9ecJ-10" value="双塔模板" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;flipH=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -774,7 +774,7 @@
             <mxPoint x="680" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aaN1WmZKS3DnjyaR9ecJ-85" value="&lt;b&gt;&amp;nbsp; 异构&lt;br&gt;&amp;nbsp; 推理&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aaN1WmZKS3DnjyaR9ecJ-85" value="&lt;b&gt;&amp;nbsp; 异构&lt;br&gt;&amp;nbsp; 推理&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="1240.25" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aaN1WmZKS3DnjyaR9ecJ-86" value="CPU推理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
