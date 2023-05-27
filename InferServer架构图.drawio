@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T12:40:26.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="9rX4LCoPjYDdlGq7Ztbb" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T03:39:03.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="1BjJfY3tYbKHZH6-h3Mk" version="21.0.6" type="github">
   <diagram id="1ijzIfbyLROeD-AFS1ul" name="Page-1">
-    <mxGraphModel dx="1221" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -956,7 +956,7 @@
         <mxCell id="qmducfJw634jm7XFfAXs-80" value="HCF Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2024" y="3410" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qmducfJw634jm7XFfAXs-84" value="Instance" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="qmducfJw634jm7XFfAXs-84" value="Instance" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFE6CC;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1400.25" y="3467" width="306.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qmducfJw634jm7XFfAXs-87" value="Feature" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
@@ -968,10 +968,10 @@
         <mxCell id="qmducfJw634jm7XFfAXs-90" value="Feature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1920" y="3533" width="101" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="qmducfJw634jm7XFfAXs-94" value="Feature" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="qmducfJw634jm7XFfAXs-94" value="User Feature" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1399.75" y="3520" width="149.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qmducfJw634jm7XFfAXs-95" value="FeatureEntity" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="qmducfJw634jm7XFfAXs-95" value="Ad Feature" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1559.5" y="3520" width="146.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qmducfJw634jm7XFfAXs-96" value="TF Engine" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
@@ -1004,7 +1004,7 @@
             <mxPoint x="1649" y="3431" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qmducfJw634jm7XFfAXs-109" value="Adapter" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="qmducfJw634jm7XFfAXs-109" value="Adapter" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1399.75" y="3560" width="306.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qmducfJw634jm7XFfAXs-110" value="Model" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFE6CC;strokeColor=#36393d;" vertex="1" parent="1">
