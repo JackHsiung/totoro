@@ -223,7 +223,7 @@
         <mxCell id="9B94T_sQ_y04vvRiNsfj-136" value="&lt;font face=&quot;Verdana&quot;&gt;IO Threads&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="600" width="235" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9B94T_sQ_y04vvRiNsfj-137" value="&lt;font face=&quot;Verdana&quot;&gt;Thread Pool&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;" vertex="1" parent="1">
+        <mxCell id="9B94T_sQ_y04vvRiNsfj-137" value="&lt;font face=&quot;Verdana&quot;&gt;Thread Pool&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
           <mxGeometry x="394.5" y="600" width="258.5" height="60" as="geometry" />
         </mxCell>
       </root>
