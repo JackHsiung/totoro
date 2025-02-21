@@ -156,7 +156,7 @@
         <mxCell id="Rb8F0cIDE6Xrw_CJ6laD-9" value="Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;fontColor=#333333;strokeColor=#666666;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="979" y="590" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Rb8F0cIDE6Xrw_CJ6laD-11" value="&lt;span&gt;Lookup&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#666666;strokeWidth=1;fontStyle=0;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="Rb8F0cIDE6Xrw_CJ6laD-11" value="&lt;span&gt;EmbLookup&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#666666;strokeWidth=1;fontStyle=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1127" y="510" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Rb8F0cIDE6Xrw_CJ6laD-12" value="&lt;span&gt;HSTU&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;fontColor=#333333;strokeColor=#666666;strokeWidth=1;fontStyle=0" vertex="1" parent="1">
@@ -201,7 +201,7 @@
           <mxGeometry x="1122" y="302" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rb8F0cIDE6Xrw_CJ6laD-39" value="&lt;b&gt;太极发布平台&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;dashPattern=8 8;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="911" y="730" width="540" height="130" as="geometry" />
+          <mxGeometry x="911" y="730" width="540" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Rb8F0cIDE6Xrw_CJ6laD-40" value="&lt;b&gt;Porter&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;fontColor=#333333;strokeColor=#666666;strokeWidth=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="962" y="760" width="210" height="50" as="geometry" />
