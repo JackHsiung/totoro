@@ -442,7 +442,7 @@
             <mxPoint x="2185" y="53" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pAFUZimNPxbINKu1IEUq-54" value="&lt;b&gt;太极推理平台&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;dashPattern=8 8;fillColor=#E7DAD5;" vertex="1" parent="1">
+        <mxCell id="pAFUZimNPxbINKu1IEUq-54" value="&lt;b&gt;太极推理平台&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#E7DAD5;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="2073" y="95" width="540" height="280" as="geometry" />
         </mxCell>
         <mxCell id="pAFUZimNPxbINKu1IEUq-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pAFUZimNPxbINKu1IEUq-56" target="pAFUZimNPxbINKu1IEUq-67">
