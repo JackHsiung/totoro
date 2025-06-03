@@ -1,9 +1,100 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="第 1 页" id="GjEhbLxv8ckOb1mPa53r">
-    <mxGraphModel>
+    <mxGraphModel dx="1213" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-8" value="" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="50" y="380" width="850" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="kPLIuCxcIL4N2UCZBuoY-1" target="kPLIuCxcIL4N2UCZBuoY-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="420" />
+              <mxPoint x="170" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-1" value="请求解析" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontStyle=1;fillColor=#ABD3E1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="kPLIuCxcIL4N2UCZBuoY-2" target="kPLIuCxcIL4N2UCZBuoY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-2" value="查询&lt;div&gt;高频Cache&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontStyle=1;fillColor=#ABD3E1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="kPLIuCxcIL4N2UCZBuoY-3" target="kPLIuCxcIL4N2UCZBuoY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-3" value="查询&lt;div&gt;PS&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;参数&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontStyle=1;fillColor=#ABD3E1;" vertex="1" parent="1">
+          <mxGeometry x="313.5" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="kPLIuCxcIL4N2UCZBuoY-4" target="kPLIuCxcIL4N2UCZBuoY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-4" value="Field&amp;nbsp;&lt;div&gt;Pooling&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontStyle=1;fillColor=#ABD3E1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="kPLIuCxcIL4N2UCZBuoY-5" target="kPLIuCxcIL4N2UCZBuoY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-5" value="Token&amp;nbsp;&lt;div&gt;Pooling&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontStyle=1;fillColor=#ABD3E1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="kPLIuCxcIL4N2UCZBuoY-6" target="kPLIuCxcIL4N2UCZBuoY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-6" value="Copy&lt;div&gt;锁页内存&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontStyle=1;fillColor=#ABD3E1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-7" value="GPU&lt;div&gt;模型推理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontStyle=1;fillColor=#FAC795;" vertex="1" parent="1">
+          <mxGeometry x="800" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="kPLIuCxcIL4N2UCZBuoY-17" target="kPLIuCxcIL4N2UCZBuoY-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="175" y="580" />
+              <mxPoint x="175" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-17" value="请求解析" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontStyle=1;fillColor=#ABD3E1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="kPLIuCxcIL4N2UCZBuoY-19" target="kPLIuCxcIL4N2UCZBuoY-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-19" value="查询&lt;div&gt;高频Cache&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontStyle=1;fillColor=#ABD3E1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="kPLIuCxcIL4N2UCZBuoY-21" target="kPLIuCxcIL4N2UCZBuoY-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-21" value="查询&lt;div&gt;PS&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;参数&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontStyle=1;fillColor=#ABD3E1;" vertex="1" parent="1">
+          <mxGeometry x="318.5" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="kPLIuCxcIL4N2UCZBuoY-23" target="kPLIuCxcIL4N2UCZBuoY-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-23" value="Field&amp;nbsp;&lt;div&gt;Pooling&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontStyle=1;fillColor=#ABD3E1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="kPLIuCxcIL4N2UCZBuoY-25" target="kPLIuCxcIL4N2UCZBuoY-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-25" value="Token&amp;nbsp;&lt;div&gt;Pooling&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontStyle=1;fillColor=#ABD3E1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="kPLIuCxcIL4N2UCZBuoY-27" target="kPLIuCxcIL4N2UCZBuoY-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-27" value="Copy&lt;div&gt;锁页内存&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontStyle=1;fillColor=#ABD3E1;" vertex="1" parent="1">
+          <mxGeometry x="686" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPLIuCxcIL4N2UCZBuoY-28" value="GPU&lt;div&gt;模型推理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontStyle=1;fillColor=#FAC795;" vertex="1" parent="1">
+          <mxGeometry x="805" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
