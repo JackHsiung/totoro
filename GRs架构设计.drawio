@@ -3963,6 +3963,201 @@
         <mxCell id="RLWJC20pJipGennP3dys-236" value="&lt;font face=&quot;Helvetica&quot;&gt;高频文件&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="4850" y="3180" width="119.38" height="46.25" as="geometry" />
         </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=none;endFill=0;" edge="1" parent="1" source="RLWJC20pJipGennP3dys-237" target="RLWJC20pJipGennP3dys-238">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-237" value="Datahub" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="4078" y="3247" width="97" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-238" value="Datahub" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="4078" y="3545" width="97" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=none;endFill=0;" edge="1" parent="1" source="RLWJC20pJipGennP3dys-239" target="RLWJC20pJipGennP3dys-240">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-239" value="GPRServer" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="4442.25" y="3247" width="97" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-240" value="GPRServer" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="4442.25" y="3545" width="97" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=none;endFill=0;" edge="1" parent="1" source="RLWJC20pJipGennP3dys-243" target="RLWJC20pJipGennP3dys-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-243" value="InferServer" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="4623.25" y="3247" width="97" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-244" value="InferServer" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="4623.25" y="3545" width="97" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=none;endFill=0;fillColor=#ffe6cc;strokeColor=#1A1A1A;" edge="1" parent="1" source="RLWJC20pJipGennP3dys-249" target="RLWJC20pJipGennP3dys-250">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-249" value="Mixer" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="3897" y="3247" width="97" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-250" value="Mixer" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="3897" y="3545" width="97" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=none;endFill=0;" edge="1" parent="1" source="RLWJC20pJipGennP3dys-252" target="RLWJC20pJipGennP3dys-253">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-252" value="RetrievalProxy" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="4258" y="3247" width="97" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-253" value="RetrievalProxy" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="4258" y="3545" width="97" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-254" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3945" y="3311" as="sourcePoint" />
+            <mxPoint x="4125" y="3311" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-255" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;jumpStyle=arc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4127.13" y="3326" as="sourcePoint" />
+            <mxPoint x="4490" y="3326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-256" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;jumpStyle=arc;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4128" y="3352" as="sourcePoint" />
+            <mxPoint x="4490.87" y="3352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-257" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4490" y="3335" as="sourcePoint" />
+            <mxPoint x="4670" y="3335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-258" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4490" y="3356" as="sourcePoint" />
+            <mxPoint x="4670" y="3356" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-259" value="用户信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4004" y="3292" width="60" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-260" value="行为序列特征" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4324.25" y="3309" width="85.75" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-261" value="GPR IP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4324.25" y="3356" width="85.75" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-262" value="行为序列特征" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4530" y="3313" width="85.75" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-263" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4491" y="3408" as="sourcePoint" />
+            <mxPoint x="4671" y="3408" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-264" value="TrieTree" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4530" y="3389" width="85.75" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-265" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4490" y="3433.5" as="sourcePoint" />
+            <mxPoint x="4670" y="3433.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-266" value="Infer IP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4530" y="3356" width="85.75" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-267" value="多级语义编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4530" y="3434" width="85.75" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-270" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4491" y="3452.5" width="15" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-271" value="检索&amp;amp;过滤" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4509" y="3460.75" width="64" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-272" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Helvetica;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="3988.5" y="3293" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-273" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4313.25" y="3310.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-274" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4313.25" y="3357.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-275" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;2.1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4516" y="3316" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-277" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;2.2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4517" y="3359" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-278" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;2.3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4517" y="3390" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-279" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;2.4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4518" y="3436" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-280" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3946" y="3373" as="sourcePoint" />
+            <mxPoint x="4126" y="3373" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-281" value="User Embedding" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="3986" y="3354.5" width="97.5" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-282" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Helvetica;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="3971" y="3354" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-283" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;jumpStyle=arc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3942.75" y="3465" as="sourcePoint" />
+            <mxPoint x="4308" y="3466" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-284" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4082.5" y="3447" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-285" value="召回阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4137.5" y="3445.5" width="60" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-286" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4311" y="3494.5" as="sourcePoint" />
+            <mxPoint x="4491" y="3494.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-287" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4371" y="3476" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-288" value="GPR IP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4371" y="3474.5" width="85.75" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-289" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4311" y="3522" as="sourcePoint" />
+            <mxPoint x="4491" y="3522" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-290" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4371" y="3505" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-291" value="创意列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4371" y="3503.5" width="85.75" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-292" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;jumpStyle=arc;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3943.88" y="3523" as="sourcePoint" />
+            <mxPoint x="4309.13" y="3524" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-293" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4081" y="3506.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-294" value="召回结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4139.5" y="3503.5" width="60" height="17" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
