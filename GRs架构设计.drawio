@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="第 1 页" id="gCAACnPZ3ZFmU67YCKop">
-    <mxGraphModel dx="3032" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2343" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4074,9 +4074,6 @@
         <mxCell id="RLWJC20pJipGennP3dys-270" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="4491" y="3452.5" width="15" height="33.5" as="geometry" />
         </mxCell>
-        <mxCell id="RLWJC20pJipGennP3dys-271" value="检索&amp;amp;过滤" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="4509" y="3460.75" width="64" height="17" as="geometry" />
-        </mxCell>
         <mxCell id="RLWJC20pJipGennP3dys-272" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Helvetica;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="3988.5" y="3293" width="14" height="14" as="geometry" />
         </mxCell>
@@ -4781,6 +4778,27 @@
         </mxCell>
         <mxCell id="RLWJC20pJipGennP3dys-481" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;jumpStyle=arc;strokeColor=#FFB570;strokeWidth=2;" edge="1" parent="1" source="RLWJC20pJipGennP3dys-477" target="RLWJC20pJipGennP3dys-299">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-482" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4491" y="3375" width="15" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-483" value="构建trietree" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4443" y="3364.5" width="56" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-484" value="检索&amp;amp;过滤" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4505" y="3462.75" width="64" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-486" value="Encoder" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4687" y="3336" width="64" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-487" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4672" y="3333" width="15" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-488" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4672" y="3409" width="15" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RLWJC20pJipGennP3dys-489" value="Decoder" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="4687" y="3411.5" width="64" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
