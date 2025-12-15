@@ -5911,7 +5911,7 @@
         <mxCell id="HJ-FPpjwE0E2RejtBM_B-428" value="GPU推理" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;dashed=1;verticalAlign=top;fillColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="7405.38" y="2570.75" width="424.87" height="229" as="geometry" />
         </mxCell>
-        <mxCell id="HJ-FPpjwE0E2RejtBM_B-429" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;RankReward&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;glass=0;fillColor=#eeeeee;strokeColor=#36393d;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="HJ-FPpjwE0E2RejtBM_B-429" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;RankReward Model&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;glass=0;fillColor=#eeeeee;strokeColor=#36393d;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="7428.25" y="2597.75" width="386.13" height="183.5" as="geometry" />
         </mxCell>
         <mxCell id="HJ-FPpjwE0E2RejtBM_B-430" value="" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;" vertex="1" parent="1">
